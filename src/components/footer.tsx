@@ -31,8 +31,6 @@ export function Footer() {
                         </h3>
                         <p>E-mail: contato@clothingstore.com</p>
                         <p>Telefone: (61) 99978-5395</p>
-                        <p>Endereço: SHIN QI 6 Conjunto 5 Casa 8</p>
-
                     </div>
 
                     <div>
@@ -41,8 +39,6 @@ export function Footer() {
                         </h3>
                             <div className="flex gap-4">
                                 <a href = "https://www.facebook.com" target="_blank"> <FacebookLogoIcon className = "w-8 h-8"/> </a>
-                                <a href = "https://www.instagram.com" target="_blank"> <InstagramLogoIcon className = "w-8 h-8"/> </a>
-                                <a href = "https://www.twitter.com" target="_blank"> <TwitterLogoIcon className = "w-8 h-8"/> </a>
                             </div>
                     </div>
 
