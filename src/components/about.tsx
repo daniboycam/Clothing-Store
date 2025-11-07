@@ -50,11 +50,6 @@ export function About(){
                             <WhatsappLogoIcon className="h-5 w-5"/>
                             Contato via Whatsapp
                         </a>
-
-                        <a href = "https://maps.app.goo.gl/NLrbofLnLztoYK3M6" target = "_blank" className = "text-black px-5 py-2 rounded-md font-semibold flex items-center justify-center w-fit gap-2">
-                            <MapPin className = "h-5 w-5"/>
-                            Endereço da Loja
-                        </a>
                     </div>
 
                     </div>
