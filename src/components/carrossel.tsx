@@ -10,12 +10,12 @@ import 'swiper/css'
 import 'swiper/css/navigation'
 import 'swiper/css/pagination'
 
-import pijamaImg1 from '../../public/pijama1.jpg'
-import pijamaImg2 from '../../public/pijama2.jpg'
-import pijamaImg3 from '../../public/pijama3.jpg'
-import pijamaImg4 from '../../public/pijama4.jpg'
-import pijamaImg5 from '../../public/pijama5.jpg'
-import pijamaImg6 from '../../public/pijama6.jpg'
+import pijamaImg1 from '../../public/pijama1.png'
+import pijamaImg2 from '../../public/pijama2.png'
+import pijamaImg3 from '../../public/pijama3.png'
+import pijamaImg4 from '../../public/pijama4.png'
+import pijamaImg5 from '../../public/pijama5.png'
+import pijamaImg6 from '../../public/pijama6.png'
 
 const slideImages = [pijamaImg1, pijamaImg2, pijamaImg3, pijamaImg4, pijamaImg5, pijamaImg6];
 
