@@ -38,7 +38,7 @@ export function Footer() {
                             Redes Sociais
                         </h3>
                             <div className="flex gap-4">
-                                <a href = "https://www.instagram.com" target="_blank"> <InstagramLogoIcon className = "w-8 h-8"/> </a>
+                                <a href = "https://www.instagram.com/edineide.pereira.1232" target="_blank"> <InstagramLogoIcon className = "w-8 h-8"/> </a>
 
                             </div>
                     </div>

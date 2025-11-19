@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Loja da Edineide",
+  title: "Neide Corte & Costura",
   description: "As melhores roupas para você!",
 };
 
