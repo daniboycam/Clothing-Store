@@ -10,15 +10,9 @@ import 'swiper/css'
 import 'swiper/css/navigation'
 import 'swiper/css/pagination'
 
-import pijamaImg1 from '../../public/pijama1.png'
-import pijamaImg2 from '../../public/pijama2.png'
-import pijamaImg3 from '../../public/pijama3.png'
-import pijamaImg4 from '../../public/pijama4.png'
-import pijamaImg5 from '../../public/pijama5.png'
-import pijamaImg6 from '../../public/pijama6.png'
+import pijamaImg1 from '../../public/pijamalongo.png'
 
-const slideImages = [pijamaImg1, pijamaImg2, pijamaImg3, pijamaImg4, pijamaImg5, pijamaImg6];
-
+const slideImages = [pijamaImg1];
 export function MeuCarrossel() {
   return (
     <Swiper
