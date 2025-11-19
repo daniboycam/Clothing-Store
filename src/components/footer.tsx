@@ -38,7 +38,7 @@ export function Footer() {
                                 edineideneide@yahoo.com.br
                             </a>
                         </p>
-                        <p>Telefone: (61) 99978-5395</p>
+                        <p>Telefone: (61)99978-5395</p>
                     </div>
 
                     <div>
