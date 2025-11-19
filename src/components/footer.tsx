@@ -29,7 +29,15 @@ export function Footer() {
                         <h3 className="text-2xl font-semibold mb-2">
                             Contatos
                         </h3>
-                        <p>E-mail: contato@clothingstore.com</p>
+                        <p className="mb-2">
+                            E-mail:{" "}
+                            <a 
+                                href="mailto:edineideneide@yahoo.com.br" 
+                                className="hover:underline hover:text-gray-200 transition-colors"
+                            >
+                                edineideneide@yahoo.com.br
+                            </a>
+                        </p>
                         <p>Telefone: (61) 99978-5395</p>
                     </div>
 
