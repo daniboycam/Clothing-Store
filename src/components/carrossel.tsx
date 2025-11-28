@@ -10,13 +10,17 @@ import 'swiper/css'
 import 'swiper/css/navigation'
 import 'swiper/css/pagination'
 
-import pijamaImg1 from '../../public/pijamalongo.png'
-import pijamaImg2 from '../../public/PIjama2.png'
-import Natal1 from '../../public/Natal1.png'
-import Natal2 from '../../public/Natal2.png'
-import Costura1 from '../../public/Costura1.png'
+import pijamaImg1 from '../../public/Pijama1.jpg'
+import pijamaImg2 from '../../public/PIjama2.jpg'
+import Natal1 from '../../public/Natal1.jpg'
+import Natal2 from '../../public/Natal2.jpg'
+import Natal3 from '../../public/Natal3.jpg'
+import Costura1 from '../../public/Costura1.jpg'
+import Vestido1 from '../../public/Vestido1.jpg'
+import Vestido2 from '../../public/Vestido2.jpg'
+import Vestido3 from '../../public/Vestido3.jpg'
 
-const slideImages = [pijamaImg1, pijamaImg2, Natal1, Natal2, Costura1];
+const slideImages = [pijamaImg1, pijamaImg2, Natal1, Natal2, Natal3, Costura1, Vestido1, Vestido2, Vestido3];
 export function MeuCarrossel() {
   return (
     <Swiper
